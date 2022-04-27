@@ -4,4 +4,4 @@ function double(num)
 }
 
 var x =2;
-double(x)'
+double(x);
